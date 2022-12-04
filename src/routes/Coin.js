@@ -180,6 +180,7 @@ const Coin = () => {
                                                     .price_change_percentage_1y_in_currency
                                                     .usd
                                             }
+                                            %
                                         </p>
                                     ) : null}
                                 </td>
